@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/2084.dir/src/entry.cpp.o -o 2084  -lcurl 

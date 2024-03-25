@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug",
+  "command": "/usr/bin/c++  -I/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/include -I/home/alexlee/Desktop/2084/include -g -std=gnu++23 -o CMakeFiles/2084.dir/src/entry.cpp.o -c /home/alexlee/Desktop/2084/src/entry.cpp",
+  "file": "/home/alexlee/Desktop/2084/src/entry.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/components/audio.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/audio.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/audio.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/components/azure.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/azure.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/azure.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/components/chat.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/chat.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/chat.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/components/completions.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/completions.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/completions.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/components/edits.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/edits.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/edits.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/components/embeddings.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/embeddings.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/embeddings.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/components/files.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/files.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/files.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/components/fine_tunes.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/fine_tunes.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/fine_tunes.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/components/images.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/images.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/images.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/components/models.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/models.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/models.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/components/moderations.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/moderations.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/components/moderations.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/core/authorization.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/core/authorization.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/core/authorization.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/core/netimpl.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/core/netimpl.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/core/netimpl.cpp"
+},
+{
+  "directory": "/home/alexlee/Desktop/2084/out/debug/thirdparty/liboai/liboai",
+  "command": "/usr/bin/c++  -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -o CMakeFiles/oai.dir/core/response.cpp.o -c /home/alexlee/Desktop/2084/thirdparty/liboai/liboai/core/response.cpp",
+  "file": "/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/core/response.cpp"
+}
+]
