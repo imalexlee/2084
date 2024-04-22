@@ -92,6 +92,8 @@ CMakeFiles/2084.dir/src/entry.cpp.s: cmake_force
 
 2084: CMakeFiles/2084.dir/src/entry.cpp.o
 2084: CMakeFiles/2084.dir/build.make
+2084: thirdparty/liboai/liboai/liboai.a
+2084: /usr/lib/x86_64-linux-gnu/libcurl.so
 2084: CMakeFiles/2084.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/alexlee/Desktop/2084/out/debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 2084"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/2084.dir/link.txt --verbose=$(VERBOSE)

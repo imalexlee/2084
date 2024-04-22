@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/alexlee/Desktop/2084/out/debug",
-  "command": "/usr/bin/c++  -I/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/include -I/home/alexlee/Desktop/2084/include -g -std=gnu++23 -o CMakeFiles/2084.dir/src/entry.cpp.o -c /home/alexlee/Desktop/2084/src/entry.cpp",
+  "command": "/usr/bin/c++  -I/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/include -I/home/alexlee/Desktop/2084/include -isystem /home/alexlee/vcpkg/installed/x64-linux/include -g -std=gnu++23 -o CMakeFiles/2084.dir/src/entry.cpp.o -c /home/alexlee/Desktop/2084/src/entry.cpp",
   "file": "/home/alexlee/Desktop/2084/src/entry.cpp"
 },
 {

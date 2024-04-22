@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/2084.dir/src/entry.cpp.o -o 2084  -lcurl 
+/usr/bin/c++ -g CMakeFiles/2084.dir/src/entry.cpp.o -o 2084   -L/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/core  -Wl,-rpath,/home/alexlee/Desktop/2084/thirdparty/liboai/liboai/core -lcurl thirdparty/liboai/liboai/liboai.a /usr/lib/x86_64-linux-gnu/libcurl.so 

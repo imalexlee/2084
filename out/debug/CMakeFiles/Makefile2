@@ -110,7 +110,7 @@ thirdparty/liboai/liboai/clean: thirdparty/liboai/liboai/CMakeFiles/oai.dir/clea
 # Target rules for target CMakeFiles/2084.dir
 
 # All Build rule for target.
-CMakeFiles/2084.dir/all:
+CMakeFiles/2084.dir/all: thirdparty/liboai/liboai/CMakeFiles/oai.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2084.dir/build.make CMakeFiles/2084.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2084.dir/build.make CMakeFiles/2084.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/alexlee/Desktop/2084/out/debug/CMakeFiles --progress-num=1,2 "Built target 2084"
@@ -118,7 +118,7 @@ CMakeFiles/2084.dir/all:
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2084.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/alexlee/Desktop/2084/out/debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/alexlee/Desktop/2084/out/debug/CMakeFiles 17
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/2084.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/alexlee/Desktop/2084/out/debug/CMakeFiles 0
 .PHONY : CMakeFiles/2084.dir/rule
